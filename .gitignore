@@ -5,3 +5,5 @@
 /PwnedPasswordValidator/.vs
 /PwnedPasswordValidator/PwnedPasswordValidator/obj
 /PwnedPasswordValidator/PwnedPasswordValidator/bin
+/PwnedPasswordValidator/PwnedPasswordValidator.Tests/bin
+/PwnedPasswordValidator/PwnedPasswordValidator.Tests/obj

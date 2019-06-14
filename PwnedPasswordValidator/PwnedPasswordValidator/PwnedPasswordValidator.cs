@@ -35,7 +35,7 @@ namespace PwnedPasswordValidator
             {
                 return IdentityResult.Failed(new IdentityError
                 {
-                    Code = "PwnedPassword",
+                    Code = ErrorCodes.PwnedPassword,
                     Description = "Chosen password has appeared in a data breach."
                 });
             }
